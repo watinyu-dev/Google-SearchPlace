@@ -1,0 +1,25 @@
+{
+  "name": "google-api-dev-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxsylph/google-api-dev-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxsylph/google-api-dev-test/issues"
+  },
+  "homepage": "https://github.com/zxsylph/google-api-dev-test#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}

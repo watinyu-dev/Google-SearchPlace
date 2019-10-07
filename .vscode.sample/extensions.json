@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"mikestead.dotenv",
+		"numso.prettier-standard-vscode",
+		"aeschli.vscode-css-formatter",
+		"hookyqr.beautify"
+	]
+}
